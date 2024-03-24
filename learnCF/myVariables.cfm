@@ -29,10 +29,6 @@
 <hr/>
 
 <!-- Add up the Price of 10 Books -->
-<cfset totalBookCost = 0>
-<cfloop index="i" from="1" to="10">
-    <cfset totalBookCost = totalBookCost + i> <!-- Assuming the price of each book increases by 1 -->
-</cfloop>
 <cfoutput>Total Book Cost: #totalBookCost#</cfoutput>
 
 </body>
