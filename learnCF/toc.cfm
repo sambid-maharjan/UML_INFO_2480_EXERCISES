@@ -20,6 +20,7 @@
     <p><a href="MyArray.cfm?p=MyArray">Exercise: Intro To Complex Variables: Arrays</a></p>
     <p><a href="myForm.cfm?p=myForm">Exercise: Forms And URLs</a></p>
     <p><a href="MathFunction.cfm?p=MathFunction">Exercise: Functions</a></p>
+    <p><a href="component.cfm?p=component">Exercise: Scripts And Components</a></p>
 
 
 </body>
